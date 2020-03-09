@@ -2,6 +2,7 @@
 title: "README"
 author: "Jorey Jossart"
 output: md_document
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
